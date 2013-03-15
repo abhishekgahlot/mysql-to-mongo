@@ -13,8 +13,11 @@ API module of php.
 In this file you have to change only these things:
 
 define('dbname', 'YOUR_DB_NAME');
+
 private $dbhost='DATABASE_HOST'; 
+
 private $dbusername='DATABASE_USERNAME';
+
 private $dbpassword='DATABASE_PASSWORD';
 
 Dbname for both mongo and mysql should be same
