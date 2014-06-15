@@ -1,8 +1,7 @@
 <?php
 /*Created by
 Abhishek Gahlot On  March 2013
-http://www.abhishekgahlot.com
-http://www.cloudtub.com
+http://www.abhishek.it
 
 Mysql To Mongodb Importer
 
