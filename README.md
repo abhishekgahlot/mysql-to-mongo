@@ -1,7 +1,7 @@
 mysql-to-mongo
 ==============
 
-Mysql Database to MongoDb Script PHP
+MySQL to MongoDB
 
 Php file to convert mysql to mongodb.
 You have to run this file on browser or using telnet.
